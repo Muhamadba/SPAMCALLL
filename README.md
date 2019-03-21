@@ -5,8 +5,8 @@ Spam Call Unlimited
 $ pkg update && pkg upgrade
 $ pkg install php
 $ pkg install git
-$ git clone https://github.com/Muhamadba/MBFz
-$ cd MBFz
+$ git clone https://github.com/Muhamadba/SPAMCALLL
+$ cd SPAMCALLL
 $ php SpamCall.php
 Masukan No Target ===>
 Mode Banyak (y/n) ===> UNTUK Spam Lebih Dari 1
